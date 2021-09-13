@@ -1,10 +1,10 @@
-Flask==0.10.1
+Flask==0.12.3
 Flask-WTF==0.9.3
-Jinja2==2.7.1
+Jinja2==2.11.3
 MarkupSafe==0.18
-WTForms==1.0.5
-Werkzeug==0.9.4
+WTForms==3.0.0a1
+Werkzeug==0.11.6
 itsdangerous==0.23
-protobuf==2.5.0
+protobuf==3.4.0
 rethinkdb==1.11.0-1
 wsgiref==0.1.2
